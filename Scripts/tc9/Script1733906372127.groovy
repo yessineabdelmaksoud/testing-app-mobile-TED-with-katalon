@@ -19,9 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startExistingApplication('com.ted.android')
 
+Mobile.tap(findTestObject('home'), 0)
+
+Mobile.tap(findTestObject('home'), 0)
+
 Mobile.tap(findTestObject('tc7/vd1'), 0)
 
-Mobile.tap(findTestObject('tc9/saveeeeeeeeeeeee'), 0)
+Mobile.tap(findTestObject('tc11/saveButton'), 0)
 
 WebUI.delay(5)
 
@@ -33,7 +37,7 @@ Mobile.tap(findTestObject('tc7/deletecrochet'), 0)
 
 Mobile.tap(findTestObject('tc7/removeeeeeeeeeeeeeee'), 0)
 
-Mobile.verifyElementExist(findTestObject('tc7/nothing'), 0)
+Mobile.verifyElementExist(findTestObject('tc9/agiannn'), 0)
 
 Mobile.closeApplication()
 

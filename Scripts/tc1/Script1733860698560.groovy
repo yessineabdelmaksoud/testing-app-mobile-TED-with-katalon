@@ -19,6 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startExistingApplication('com.ted.android')
 
+Mobile.tap(findTestObject('home'), 0)
+
+Mobile.tap(findTestObject('home'), 0)
+
 Mobile.tap(findTestObject('Object Repository/tc1/vd1'), 0)
 
 Mobile.tap(findTestObject('Object Repository/tc1/saveButton'), 0)

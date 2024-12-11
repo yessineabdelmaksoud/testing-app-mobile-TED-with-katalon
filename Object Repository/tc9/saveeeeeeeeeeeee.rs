@@ -3,7 +3,7 @@
    <description></description>
    <name>saveeeeeeeeeeeee</name>
    <tag></tag>
-   <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
+   <elementGuidId>4183c080-708c-4968-99b8-d4e1f53a98a1</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.Button</value>
-      <webElementGuid>983dc851-0633-4bdd-9c2c-f1a2e2971ce3</webElementGuid>
+      <webElementGuid>679bdcc0-29a6-43b9-a5bd-7d05651cae41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>9c2b65a4-4197-4dd3-9e55-86410e96a952</webElementGuid>
+      <webElementGuid>bc93f65a-22bb-43d0-b488-6094d69e8633</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>QueueEngagementButton</value>
-      <webElementGuid>193d31ff-0cb4-4161-ac6d-e0013f489cd9</webElementGuid>
+      <webElementGuid>5ecf75af-40bb-49e6-b567-82040f152345</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.ted.android</value>
-      <webElementGuid>c747c636-a4e6-456d-9277-20641c072a43</webElementGuid>
+      <webElementGuid>cb1866d1-3b59-4347-90d8-1d0eb073cd3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>content-desc</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>b190b300-b80c-4bb6-8fed-8d5345dcb474</webElementGuid>
+      <webElementGuid>d31c6a4d-773a-4460-ac27-1e83d2313c89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>dface049-6f99-48d0-be47-d1447af5bee1</webElementGuid>
+      <webElementGuid>fd4197e5-85f1-47b5-a3f8-a4efaebe89fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>207f4902-4a49-432a-846c-9e9ffc9a3fda</webElementGuid>
+      <webElementGuid>16f22b1d-2a15-4804-a5cf-5885682c43a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3c5c65b0-971b-43db-990d-98e35eaf8f43</webElementGuid>
+      <webElementGuid>cab2e664-f483-4df4-a3d0-f3010d479be8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>9587c089-6704-4683-9291-8dab0b4edbda</webElementGuid>
+      <webElementGuid>8cb39bd9-d8f4-4b43-8bcc-4243caaeda7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ad8e0756-62d1-47b4-8316-a1ea424b2e12</webElementGuid>
+      <webElementGuid>15ea0521-5945-4078-9af9-ae9ba57a0e75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b9441aa0-fbf3-4c3a-8908-b5228a789028</webElementGuid>
+      <webElementGuid>fd260f50-0184-4dbf-8d9e-7513c37e7ffc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>161453a6-ebad-4343-a6f6-e93d8ea67646</webElementGuid>
+      <webElementGuid>d8588efc-4556-4315-aab3-29e37290450e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>38091e46-f0a9-4158-9011-3576d2bd933c</webElementGuid>
+      <webElementGuid>3b2a431e-91e3-4fa9-b682-ec6426db59fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6dea59e6-6f65-45e7-97cc-5288a81ead2c</webElementGuid>
+      <webElementGuid>49921504-1c42-4a9d-9d92-769f7072b9f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>48f4a8bb-cdca-45ce-9b8c-d96471acd4e2</webElementGuid>
+      <webElementGuid>de448433-0de8-4ee3-95c8-9ac059383040</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>x</name>
       <type>Main</type>
       <value>227</value>
-      <webElementGuid>5e719ad5-2d2f-48c2-97c8-2785635be64f</webElementGuid>
+      <webElementGuid>a3536101-1a18-4cfe-810d-658c65531895</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>y</name>
       <type>Main</type>
       <value>1164</value>
-      <webElementGuid>25165349-8ad3-44d6-88ad-1d56ca90b686</webElementGuid>
+      <webElementGuid>192639e9-74de-4ff4-867b-cb55fa5c99e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>width</name>
       <type>Main</type>
       <value>71</value>
-      <webElementGuid>6e2be2d2-2747-47eb-b42c-bddada58b390</webElementGuid>
+      <webElementGuid>a7dc3ea7-d967-4d9f-bdf2-a73b05a0fd56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>height</name>
       <type>Main</type>
       <value>123</value>
-      <webElementGuid>db2d92e0-08d0-49f6-83a4-82399ec581a5</webElementGuid>
+      <webElementGuid>ab14b268-0e87-4194-8beb-80c25bf6595a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[227,1164][298,1287]</value>
-      <webElementGuid>1c9b9a67-d184-443d-907a-6aa45764ecd0</webElementGuid>
+      <webElementGuid>5ef8f17d-7137-450d-8fc9-85b632cca9f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a3853562-4419-43c4-b896-5f5a03c0f17a</webElementGuid>
+      <webElementGuid>f9a77919-d50e-4b5e-8af5-760a14b69ab4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -181,24 +181,28 @@
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>7038644c-bc6b-4f0e-a53c-d83a4f08721b</webElementGuid>
+      <webElementGuid>e0af3705-d124-4e04-907e-fef455fb9d84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.widget.Button[2]</value>
-      <webElementGuid>cee8ebc6-ae88-4278-bd00-20d226c050bd</webElementGuid>
+      <webElementGuid>7f690fd4-fdc7-490d-a5d9-0f134a094934</webElementGuid>
    </webElementProperties>
-   <locator>//*[@class = 'android.widget.Button' and @resource-id = 'QueueEngagementButton' and (@text = '' or . = '')]</locator>
+   <locator>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.widget.Button[2][count(. | //*[@class = 'android.widget.Button' and @resource-id = 'QueueEngagementButton' and (@text = '' or . = '')]) = count(//*[@class = 'android.widget.Button' and @resource-id = 'QueueEngagementButton' and (@text = '' or . = '')])]</locator>
    <locatorCollection>
       <entry>
-         <key>IMAGE</key>
+         <key>ID</key>
+         <value>QueueEngagementButton</value>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
          <value></value>
       </entry>
       <entry>
-         <key>NAME</key>
+         <key>CUSTOM</key>
          <value></value>
       </entry>
       <entry>
@@ -206,27 +210,19 @@
          <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.widget.Button[2]</value>
       </entry>
       <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.Button' and @resource-id = 'QueueEngagementButton' and (@text = '' or . = '')]</value>
+         <key>NAME</key>
+         <value></value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
          <value>android.widget.Button</value>
       </entry>
       <entry>
-         <key>CUSTOM</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>QueueEngagementButton</value>
-      </entry>
-      <entry>
          <key>ANDROID_UI_AUTOMATOR</key>
          <value>new UiSelector().className(&quot;android.widget.Button&quot;).description(&quot;Save&quot;).resourceId(&quot;QueueEngagementButton&quot;).packageName(&quot;com.ted.android&quot;).enabled(true).clickable(true).longClickable(false).checkable(false).checked(false).focusable(true).focused(false).scrollable(false).selected(false).index(1)</value>
       </entry>
       <entry>
-         <key>ANDROID_VIEWTAG</key>
+         <key>IMAGE</key>
          <value></value>
       </entry>
       <entry>
@@ -235,11 +231,15 @@
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
-         <value></value>
+         <value>**[`enabled == 1`]</value>
+      </entry>
+      <entry>
+         <key>ATTRIBUTES</key>
+         <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ScrollView[1]/android.view.ViewGroup[1]/android.view.ViewGroup[2]/android.widget.Button[2][count(. | //*[@class = 'android.widget.Button' and @resource-id = 'QueueEngagementButton' and (@text = '' or . = '')]) = count(//*[@class = 'android.widget.Button' and @resource-id = 'QueueEngagementButton' and (@text = '' or . = '')])]</value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value></value>
+         <value>enabled == 1</value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

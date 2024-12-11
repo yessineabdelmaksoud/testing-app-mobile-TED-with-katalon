@@ -19,6 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.startExistingApplication('com.ted.android')
 
+Mobile.tap(findTestObject('home'), 0)
+
+Mobile.tap(findTestObject('home'), 0)
+
 Mobile.tap(findTestObject('Object Repository/tc2/connection'), 0)
 
 Mobile.tap(findTestObject('Object Repository/tc2/creataccount'), 0)
